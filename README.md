@@ -24,4 +24,4 @@ Jon Iñaki Mujika Gorostidi, Roger Pera Martin
 
 Podem veure el dataset a la següent direcció:
 
-[https://github.com/rogjon/winequality-red-cleaning/blob/master/data/winequality_red.csv]
+[https://github.com/rogjon/winequality-red-cleaning/blob/master/data/winequality-red.csv]
