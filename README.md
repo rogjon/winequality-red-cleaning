@@ -18,7 +18,7 @@ Jon Iñaki Mujika Gorostidi, Roger Pera Martin
   * **codigo\Practica2.html**: fitxer resultant de l'execució del còdi font.
   * **codigo\Practica2.pdf**: memòria entregable de la pràctica.
   * **data\winequality-red.csv**: fitxer amb el dataset inicial sobre el qual s'ha realitzat la neteja.
-  * **data\winequality_red_limpio.csv**: fitxer amb el data set netejat del qual s'ha realitzat l'anàlisi.
+  * **data\winequality_red_limpio.csv**: fitxer amb el dataset netejat del qual s'ha realitzat l'anàlisi.
 
 ## Dataset
 
